@@ -8,12 +8,11 @@ body{
 }
 
 
-        body { cursor: url(‘amongus.cur''), default; }		
-	body, a, a:hover
-	{
-	cursor: url('amongus.cur'), default;
-	}
+        body { cursor: url('amongus.cur'), default; }		
 
-<script type="text/javascript" id="cookieinfo"
-	src="//cookieinfoscript.com/js/cookieinfo.min.js">
-</script>
+.center {
+  margin: auto;
+  width: 50%;
+  border: 3px solid green;
+  padding: 10px;
+}
