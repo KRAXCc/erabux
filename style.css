@@ -13,3 +13,8 @@ body{
 .center {
   text-align: center;
 }
+
+.lodzo {
+text-indent: -999999px;
+background: url(lodzo.png);
+}
