@@ -15,6 +15,77 @@ body{
 }
 
 .lodzo {
-text-indent: -999999px;
-background: url(lodzo.png);
+  width: 180px;
+  height: 120px;
+  margin-left: auto;
 }
+
+.dzesus {
+  width: 180px;
+  height: 120px;
+  position: relative;
+  bottom: 72px;
+  left: 550px;
+}
+
+.tajmer {
+  position: auto;
+  bottom: 350px;
+  left: 950px;
+}
+
+.szmata {
+  width: 180px;
+  height: 120px;
+  position: relative;
+  top: 300px;
+  left: 150px;
+}
+
+.napoj {
+  width: 180px;
+  height: 120px;
+  position: relative;
+  top: 300px;
+  left: 200px;
+}
+
+
+
+
+
+/*Cookies
+---------------------------------------------*/
+.cookie_box{
+	position: fixed;
+	left: 0;
+	bottom: 0;
+	width: 100%;
+	background:#383838;
+	text-align: center;
+	box-shadow: 0 0 15px rgba(0,0,0,0.3);
+}
+.hide{
+	display: none;
+}
+.cookie_box h3{
+	display: inline-block;
+	vertical-align: middle;
+	margin:0;
+	font-size: 30px;
+}
+.cookie_box button{
+	padding: 8px 25px;
+	background:#027cb7;
+	color: #fff;
+	font-size: 18px;
+	border:0;
+	outline: 0;
+	cursor: pointer;
+}
+.cookie_box button:focus{
+	background:#054d6f;
+}
+
+
+
